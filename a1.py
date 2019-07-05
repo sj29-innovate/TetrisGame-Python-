@@ -1,5 +1,4 @@
 import time
-import sys
 from random import randrange as rand
 import pygame, os
 from a2 import *
